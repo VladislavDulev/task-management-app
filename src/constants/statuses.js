@@ -1,0 +1,1 @@
+export const TASKS_STATUSES = ["Created", "In Progress", "Done"];
